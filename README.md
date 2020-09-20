@@ -5,7 +5,7 @@
 ---
 
 ## I'm a Student, Coder and a Developer!
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px"> Student At [Graphic Era Deemed to be University, Dehradun][school]!
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px"> Student At [Graphic Era Deemed to be University, Dehradun][school].
 - 🔭 I’m currently working on a [VS Code][web]!
 - 🌱 I’m currently learning everything <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 🥅 2020 Goals: To Learn Web Development 
