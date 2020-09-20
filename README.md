@@ -17,13 +17,14 @@
 
 ## My Github Stats :
 
-![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=dubeyji0110&show_icons=true&theme=radical)
+<p align="center">
+<a href="https://github.com/dubeyji0110">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubeyji0110&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" />
+</a>
+</p>
 
 ---
-
-## Language stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110)
 
 [twitter]: https://twitter.com/dubeyji0110
 [instagram]: https://instagram.com/_cpp.freak
