@@ -4,6 +4,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dubeyji0110?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdubeyji0110&screen_name=dubeyji0110)
 
+[<img align="left" alt="Visual Studio Code" width="200px" height="50px" src="https://logodix.com/logo/484500.jpg" />][instagram]
+
+<br /> <br />
+
 ---
 
 ## I'm a Student, Coder and a Developer!
