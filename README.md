@@ -1,6 +1,4 @@
-### Hi there, I'm Devansh Dubey - aka [dubeyji0110][website] 👋
-
----
+### Hi there, I'm Devansh Dubey - aka [dubeyji0110][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dubeyji0110?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdubeyji0110&screen_name=dubeyji0110)
 
@@ -58,5 +56,6 @@
 <br />
 
 --- 
+<br />
 
 ![](https://komarev.com/ghpvc/?username=dubeyji0110)
