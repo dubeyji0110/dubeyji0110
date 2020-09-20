@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 ### Hi there, I'm Devansh Dubey - aka [dubeyji0110][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dubeyji0110?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdubeyji0110&screen_name=dubeyji0110)
@@ -20,7 +22,7 @@
 <p align="center">
 <a href="https://github.com/dubeyji0110">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubeyji0110&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" />
 </a>
 </p>
 
