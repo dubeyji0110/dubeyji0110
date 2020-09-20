@@ -24,8 +24,6 @@
 </a>
 </p>
 
----
-
 [twitter]: https://twitter.com/dubeyji0110
 [instagram]: https://instagram.com/_cpp.freak
 [linkedin]: https://www.linkedin.com/in/devansh-dubey-5701601b0/
