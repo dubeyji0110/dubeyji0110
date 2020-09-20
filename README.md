@@ -5,8 +5,9 @@
 ---
 
 ## I'm a Student, Coder and a Developer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px"> Student At [Graphic Era Deemed to be University, Dehradun][school]!
+- 🔭 I’m currently working on a [VS Code][web]!
+- 🌱 I’m currently learning everything <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - 🥅 2020 Goals: To Learn Web Development 
 - ⚡ Fun fact: I am a Die Hard RCB fam
 
@@ -28,6 +29,8 @@
 [instagram]: https://instagram.com/_cpp.freak
 [linkedin]: https://www.linkedin.com/in/devansh-dubey-5701601b0/
 [website]: https://dubeyji0110.github.io/firstWebpage/
+[web]: https://code.visualstudio.com/
+[school]: https://www.geu.ac.in/
 
 ---
 
