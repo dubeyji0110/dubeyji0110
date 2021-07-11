@@ -22,9 +22,8 @@
 <a href="https://github.com/dubeyji0110">
   <p align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubeyji0110&show_icons=true&hide_border=true&theme=radical" /></p>
    <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyji0110" alt="dubeyji0110" /></p>
 </a>
-<p> <img src="https://github-profile-trophy.vercel.app/?username=dubeyji0110" alt="dubeyji0110" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyji0110" alt="dubeyji0110" /></p>
 
 [twitter]: https://twitter.com/dubeyji0110
 [instagram]: https://instagram.com/_cpp.freak
