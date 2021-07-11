@@ -26,7 +26,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" />
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abby1611&" alt="abby1611" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyji0110" alt="dubeyji0110" /></p>
 
 [twitter]: https://twitter.com/dubeyji0110
 [instagram]: https://instagram.com/_cpp.freak
