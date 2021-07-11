@@ -21,10 +21,12 @@
 
 <p align="center">
 <a href="https://github.com/dubeyji0110">
+    <img src="https://github-profile-trophy.vercel.app/?username=dubeyji0110" alt="dubeyji0110" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubeyji0110&show_icons=true&hide_border=true&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" />
 </a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abby1611&" alt="abby1611" /></p>
 
 [twitter]: https://twitter.com/dubeyji0110
 [instagram]: https://instagram.com/_cpp.freak
