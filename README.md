@@ -19,14 +19,12 @@
 
 ## My Github Stats :
 
-<p align="center">
 <a href="https://github.com/dubeyji0110">
-    <img src="https://github-profile-trophy.vercel.app/?username=dubeyji0110" alt="dubeyji0110" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubeyji0110&show_icons=true&hide_border=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" />
+  <p align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubeyji0110&show_icons=true&hide_border=true&theme=radical" /></p>
+   <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyji0110&theme=radical&layout=compact" /></p>
 </a>
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyji0110" alt="dubeyji0110" /></p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dubeyji0110" alt="dubeyji0110" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubeyji0110" alt="dubeyji0110" /></p>
 
 [twitter]: https://twitter.com/dubeyji0110
 [instagram]: https://instagram.com/_cpp.freak
@@ -37,9 +35,9 @@
 
 ---
 
-<p>
     
 ### Languages and Tools:
+<p>
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -54,7 +52,6 @@
 <img align="left" width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 </p>
-<br /><br />
 
 ---
 
