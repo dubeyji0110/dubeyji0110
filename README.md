@@ -28,7 +28,7 @@
 [twitter]: https://twitter.com/dubeyji0110
 [instagram]: https://instagram.com/_cpp.freak
 [linkedin]: https://www.linkedin.com/in/devansh-dubey-5701601b0/
-[website]: https://dubeyji0110vlogs.wordpress.com/
+[website]: https://dubeyji0110.github.io/
 [web]: https://code.visualstudio.com/
 [school]: https://www.geu.ac.in/
 
